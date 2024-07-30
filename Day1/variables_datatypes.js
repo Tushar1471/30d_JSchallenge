@@ -7,19 +7,19 @@
 // Task 1: Declare a variable using var, assign it a number, and log the value to the console.
 
 var num = 7;
-console.log(num);
+console.log(num); // 7
 
 // Task 2: Declare a variable using let, assign it to a string, and log the value to the console.
 
 let sentence = "Hello! I am JavaScript.";
-console.log(sentence);
+console.log(sentence); // Hello! I am JavaScript.
 
 // *** Activity 2: Constant Declaration *** \\
 
 // Task 3: Declare a variable using const,assign it to a boolean value,and log the value to the console.
 
 const isNotReassign = true;
-console.log(isNotReassign);
+console.log(isNotReassign); // true
 
 // *** Activity 3: Data Types *** \\
 
